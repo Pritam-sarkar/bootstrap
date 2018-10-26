@@ -1,0 +1,55 @@
+ .box {
+     background-color: aqua;
+     height: 150px;
+ }
+
+ .boxes {
+     background-color: darkcyan;
+     height: 50px;
+     margin: 10px;
+     text-align: center;
+     padding-top: 5px;
+ }
+
+ .boxes1 {
+     background-color: aqua;
+     height: 250px;
+     margin-top: 15px;
+ }
+
+ .boxes2 {
+     background-color: blueviolet;
+     height: 250px;
+     margin-top: 15px;
+     text-align: center;
+     padding: 85px;
+ }
+.box1 {
+    background-color: darkcyan;
+    height: 150px;
+    text-align: center;
+    padding: 50px;
+    margin: 15px;
+    margin-bottom: 10px;
+}
+.boxes3{
+     background-color: aqua;
+     height: 450px;
+     margin-top: 15px;
+    
+}
+.box2{
+    background-color: darkcyan;
+    height: 350px;
+    text-align: center;
+    padding: 50px;
+    margin: 35px;
+    
+    
+}
+.footer{
+    background-color: aqua;
+    height: auto;
+    padding: 15px;
+    margin-top: 20px;
+}
